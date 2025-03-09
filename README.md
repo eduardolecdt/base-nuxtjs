@@ -37,7 +37,7 @@ pnpm run dev
 Para gerar os arquivos otimizados para produção:
 
 ```sh
-pnpm run build
+pnpm run generate
 ```
 
 Os arquivos serão gerados na pasta **/dist**.
@@ -76,7 +76,7 @@ Para publicar seu projeto, confira a **[documentação de deployment do Nuxt 3](
 Comandos úteis para desenvolvimento e produção:
 
 - `pnpm run dev` → Inicia o servidor de desenvolvimento
-- `pnpm run build` → Gera o build para produção
+- `pnpm run generate` → Gera o build para produção
 - `pnpm run preview` → Visualiza o build localmente antes do deploy
 
 ---
