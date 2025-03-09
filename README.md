@@ -60,14 +60,14 @@ Para publicar seu projeto, confira a **[documentação de deployment do Nuxt 3](
 
 ## 📂 Estrutura do Projeto
 
-📁 **`assets/`** → Arquivos estáticos como imagens, fontes e estilos globais
-📁 **`components/`** → Componentes Vue reutilizáveis
-📁 **`composables/`** → Funções reutilizáveis e lógicas de estado
-📁 **`middleware/`** → Proteção e processamento de rotas
-📁 **`pages/`** → Páginas do site (geração automática de rotas)
-📁 **`public/`** → Arquivos públicos acessíveis diretamente
-📁 **`stores/`** → Gerenciamento de estado com Pinia (ou outra solução)
-📝 **`nuxt.config.ts`** → Configurações do Nuxt.js
+- 📁 **`assets/`** → Arquivos estáticos como imagens, fontes e estilos globais
+- 📁 **`components/`** → Componentes Vue reutilizáveis
+- 📁 **`composables/`** → Funções reutilizáveis e lógicas de estado
+- 📁 **`middleware/`** → Proteção e processamento de rotas
+- 📁 **`pages/`** → Páginas do site (geração automática de rotas)
+- 📁 **`public/`** → Arquivos públicos acessíveis diretamente
+- 📁 **`stores/`** → Gerenciamento de estado com Pinia (ou outra solução)
+- 📝 **`nuxt.config.ts`** → Configurações do Nuxt.js
 
 ---
 
