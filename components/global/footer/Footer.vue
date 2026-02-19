@@ -1,14 +1,10 @@
 <template>
-  <footer></footer>
+  <footer class="footer"></footer>
 </template>
 
 <script setup></script>
 
-<style scoped>
-footer {
-  display: flex;
-}
-/* Responsivo */
-@media screen and (max-width: 1140px) {
-}
+<style lang="sass" scoped>
+.footer
+  display: flex
 </style>

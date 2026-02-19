@@ -1,0 +1,19 @@
+html,
+body
+  scrollbar-color: var(--cor-gelo) var(--cor-branco)
+  scrollbar-width: thin
+
+::-webkit-scrollbar
+  width: 4px
+  height: 4px
+
+::-webkit-scrollbar-track
+  background: var(--cor-branco)
+
+::-webkit-scrollbar-thumb
+  background: var(--cor-gelo)
+  border-radius: 10px
+  transition: background 0.3s
+
+  &:hover
+    background: var(--cor-vermelho)
